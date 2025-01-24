@@ -5,10 +5,5 @@
     "discord": "1097383143708827679"
   },
   "record": {
-    "MX": [
-      "emx.mail.ru"
-    ],
-    "CNAME": "mrksbgg.github.io",
-    "TXT": "v=spf1 redirect=_spf.mail.ru"
   }
 }
