@@ -1,10 +1,9 @@
 {
-    "owner": {
-        "username": "kaizenji",
-        "email": "baratumal6788@gmail.com",
-"discord": "1203570918023110658"
-    },
-    "record": {
-        "URL": "https://jayceeqti.netlify.app/"
-    }
+  "owner": {
+    "username": "Kaizenji",
+    "email": "baratumal6788@gmail.com"
+  },
+  "record": {
+    "CNAME": "jayceeqti-web.pages.dev"
+  }
 }
